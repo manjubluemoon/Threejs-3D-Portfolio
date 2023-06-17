@@ -47,9 +47,14 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
+        I'm a skilled Cloud Solution Architect having 19 years’ experience in IT
+        across service industry, healthcare. office 365, Azure Platform, 
+        Mobile Device Management (IBM MaaS360 and Microsoft Intune), Cloud Security, 
+        ADFS, Azure CA Policies, Users & Groups Compliance e-Discovery, 
+        AZURE Multi-factor authentication (MFA), Single sign on and password-less authentication.
+        Adopting future proof technologies like Blockchain. Cloud platforms like 
+        Azure, Oracle Cloud Infrastructure and Amazon Web Services with 
+        Infrastructure as code tools like Terraform. I'm a quick learner and collaborate closely with clients to
         create efficient, scalable, and user-friendly solutions that solve
         real-world problems. Let's work together to bring your ideas to life!
       </motion.p>
